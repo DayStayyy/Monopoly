@@ -1,6 +1,6 @@
 # Monopoly
 
-CLAMADIEU Adrien
+CLAMADIEU-THARAUD Adrien
 
 QUESNOY Théo
 
